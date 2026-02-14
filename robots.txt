@@ -1,0 +1,25 @@
+# Robots.txt for Farhan Bagwan Portfolio
+# https://farhanbagwan.com
+
+# Allow all bots to crawl and index
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: *.pdf$
+Disallow: /admin/
+
+# Specific bot rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://farhanbagwan.com/sitemap.xml
+
+# Request rate
+User-agent: *
+Request-rate: 1/10s
