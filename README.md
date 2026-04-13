@@ -47,7 +47,7 @@ Your portfolio is fully optimized and ready for immediate deployment to producti
 - ✅ Formspree backend integration
 - ✅ No redirect to Formspree page
 - ✅ Form clears immediately after submission
-- ✅ Email notifications to farhan.bagwan@email.com
+- ✅ Email notifications to farhanbagwann21@gmail.com
 - ✅ Contact info section (email, LinkedIn, location)
 
 ### Code Quality
@@ -197,7 +197,7 @@ HTTPS will be automatic
 Already configured with:
 - Endpoint: https://formspree.io/f/xeelgazq
 - No additional setup needed
-- Emails go to: farhan.bagwan@email.com
+- Emails go to: farhanbagwann21@gmail.com
 ```
 
 ### Analytics
